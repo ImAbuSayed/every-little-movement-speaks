@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Every Little Movement Speaks
+
+This log tracks the cryptographic history and versioning for the song **Every Little Movement Speaks** (every-little-movement-speaks).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T18:51:47.679532 | `v1` | `2b52ff17ce59684737459beb55f0ed16469e707de2aa2f062d6c7b7005d39866` | `f254f2d1ad2d2f4c540c9f066648adc5279f3b59471a8287075cf3747ba7052b` | `2026-06-11_every-little-movement-speaks-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
