@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/every-little-movement-speaks/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Every Little Movement Speaks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/every-little-movement-speaks/) |
+| **Get License** | [Get License For Every Little Movement Speaks](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/every-little-movement-speaks/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Every little movement speaks right to my soul
+> The way you trace this coffee cup, taking control
+> Your eyes catch the light, stealing all the air
+> I'm tumbling down softly, just watching you there
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
